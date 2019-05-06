@@ -3,6 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
+/TEMPGIT
 .env
 .phpunit.result.cache
 Homestead.json
